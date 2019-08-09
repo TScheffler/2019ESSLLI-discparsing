@@ -1,0 +1,30 @@
+INTRA_SENTENCE
+
+norel	0	93	-1	-1	-1	-1	Actor, artist, philanthropist: My mother's selfless love with me at the holidays and always.
+norel	94	137	-1	-1	-1	-1	The holidays are my favorite time of year.
+norel	137	332	-1	-1	-1	-1	As my home fills with the joy and laughter of my six children and four grandchildren, I'm reminded of how lucky I am to have the most wonderful job in the world - being a mother and grandmother.
+expansion.conjunction	332	518	332	393	396	518	It's the single most important thing I've done with my life, and I know just how important the job is because I am constantly reminded of what an influence my own mother was in my life.
+norel	518	629	-1	-1	-1	-1	My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II.
+norel	629	745	-1	-1	-1	-1	During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.
+temporal.synchrony	746	870	746	746	750	870	When I think of my mother, I think of the selfless love she had not only for my family, but for complete strangers as well.
+temporal.synchrony	870	949	870	894	896	949	She's with me every day as I challenge myself to live my life in the same way.
+expansion.conjunction	949	1060	949	1016	1019	1060	I am so blessed to have a wonderful family and career that I love, and I see my mother in all of those things.
+norel	1060	1127	-1	-1	-1	-1	I see her every day in the faces of my children and grandchildren.
+expansion.conjunction	1127	1297	1127	1241	1244	1297	I am reminded of her each time a single white feather floats through the air - whether on good days or bad days - and I have to smile knowing that she is always with me.
+norel	1297	1370	-1	-1	-1	-1	Her love is reflected in my work as an actor, artist and philanthropist.
+expansion.conjunction	1370	1586	1370	1560	1563	1586	Without her example, I wouldn't be who I am today and while I miss her endlessly during the holidays, I know that if I live my life the way she did, I will make the same impact on my family and that is truly a gift.
+
+ADJACENT_SENTENCES
+
+norel	0	93	Actor, artist, philanthropist: My mother's selfless love with me at the holidays and always.	94	137	The holidays are my favorite time of year.
+contingency.cause	94	137	The holidays are my favorite time of year.	137	332	As my home fills with the joy and laughter of my six children and four grandchildren, I'm reminded of how lucky I am to have the most wonderful job in the world - being a mother and grandmother.
+expansion.restatement	137	332	As my home fills with the joy and laughter of my six children and four grandchildren, I'm reminded of how lucky I am to have the most wonderful job in the world - being a mother and grandmother.	332	518	It's the single most important thing I've done with my life, and I know just how important the job is because I am constantly reminded of what an influence my own mother was in my life.
+entrel	332	518	It's the single most important thing I've done with my life, and I know just how important the job is because I am constantly reminded of what an influence my own mother was in my life.	518	629	My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II.
+comparison.contrast	518	629	My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II.	629	745	During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.
+norel	629	745	During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.	746	870	When I think of my mother, I think of the selfless love she had not only for my family, but for complete strangers as well.
+entrel	746	870	When I think of my mother, I think of the selfless love she had not only for my family, but for complete strangers as well.	870	949	She's with me every day as I challenge myself to live my life in the same way.
+expansion.restatement	870	949	She's with me every day as I challenge myself to live my life in the same way.	949	1060	I am so blessed to have a wonderful family and career that I love, and I see my mother in all of those things.
+norel	949	1060	I am so blessed to have a wonderful family and career that I love, and I see my mother in all of those things.	1060	1127	I see her every day in the faces of my children and grandchildren.
+norel	1060	1127	I see her every day in the faces of my children and grandchildren.	1127	1297	I am reminded of her each time a single white feather floats through the air - whether on good days or bad days - and I have to smile knowing that she is always with me.
+entrel	1127	1297	I am reminded of her each time a single white feather floats through the air - whether on good days or bad days - and I have to smile knowing that she is always with me.	1297	1370	Her love is reflected in my work as an actor, artist and philanthropist.
+entrel	1297	1370	Her love is reflected in my work as an actor, artist and philanthropist.	1370	1586	Without her example, I wouldn't be who I am today and while I miss her endlessly during the holidays, I know that if I live my life the way she did, I will make the same impact on my family and that is truly a gift.

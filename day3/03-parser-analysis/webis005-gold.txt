@@ -1,0 +1,33 @@
+Actor, artist, philanthropist: My mother's selfless love with me at the holidays and always.
+
+The holidays are my favorite time of year.
+[As]C1:temporal [my home fills with the joy and laughter of my six children and four grandchildren,]C1-Arg2 [I'm reminded of how lucky I am to have the most wonderful job in the world - being a mother and grandmother.]C1-Arg1
+[It's the single most important thing I've done with my life,]C2-Arg1 [and]C2:expansion [[I know just how important the job is]C2-Arg2 ]C3-Arg1 [because]C3:contingency [I am constantly reminded of what an influence my own mother was in my life.]C3-Arg2
+My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II.
+During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.
+
+[When]C4:contingency [I think of my mother,]C4-Arg2 [I think of the selfless love she had NOT ONLY for my family, BUT for complete strangers as well.]C4-Arg1 
+[She's with me every day]C5-Arg1 [as]C5:temporal [I challenge myself to live my life in the same way.]C5-Arg2
+[I am so blessed to have a wonderful family and career that I love,]C6-Arg1 [and]C6:expansion [I see my mother in all of those things.]C6-Arg2
+I see her every day in the faces of my children and grandchildren.
+[I am reminded of her each time a single white feather floats through the air]C7-Arg1 - whether on good days or bad days - [and]C7:expansion [I have to smile knowing that she is always with me.]C7-Arg2
+Her love is reflected in my work as an actor, artist and philanthropist.
+
+[Without her example, I wouldn't be who I am today]C11-Arg1
+[and]C11:expansion
+[
+[while]C8:comparison
+[I miss her endlessly during the holidays,]C8-Arg2
+[I know that
+[if]C10:contingency
+[I live my life the way she did,]C10-Arg2
+[ [ I will make the same impact on my family]C8-Arg1 ]C9-Arg1 ]C10-Arg1 ]C11-Arg1
+[and]C9:expansion
+[that is truly a gift.]C9-Arg2
+
+
+
+
+
+
+

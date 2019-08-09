@@ -1,0 +1,17 @@
+[Actor, artist, philanthropist: My mother's selfless love with me at the holidays and always.]C1-Arg1 (C1-implicit-expansion)
+[[The holidays are my favorite time of year.]C1-Arg2]C2-Arg1 (C2-implicit-expansion)
+[[[As](C3-explicit-temporal) [my home fills with the joy and laughter of my six children and four grandchildren,]C3-Arg2 [I'm reminded of how lucky I am to have the most wonderful job in the world - being a mother and grandmother.]C3-Arg1]C2-Arg2]C4-Arg1 (C4-implicit-expansion)
+[[[It's the single most important thing I've done with my life,]C5-Arg1 [and](C5-explicit-expansion) [[I know just how important the job is]C6-Arg1 [because](C6-explicit-contingency) [I am constantly reminded of what an influence my own mother was in my life.]C6-Arg2]C5-Arg2]C4-Arg2]C7-Arg1 (C7-implicit-expansion)
+[My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II.]C7-Arg2
+[During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.]C_1-Arg1
+
+
+[[When]C-4 [I think of my mother,]C4-Arg2(Explicit-Temporal) [I think of the selfless love she had NOT ONLY for my family, BUT for complete strangers as well.]C4-Arg1]C_1-Arg2(Implicit - Expansion)]C_3-Arg1
+
+[[She's with me every day]C5-Arg1 as [I challenge myself to live my life in the same way.]C5-Arg2(Explicit-Temporal)]C_3-Arg2(Implicit-Expansion)]C_4-Arg1
+[[[I am so blessed to have a wonderful family and career that I love,]C6-Arg1]C_5-Arg1 [and]C-6 [[I see my mother in all of those things.]C6-Arg2]C_4-Arg2(Implicit-Expansion)]C_5-Arg2(Explicit-Expansion)
+[I see her every day in the faces of my children and grandchildren.]C1-Arg1
+
+[[I am reminded of her each time a single white feather floats through the air - whether on good days or bad days - and I have to smile knowing that she is always with me.]C1-Arg2(Expansion Implicit)]C2-Arg1 
+[Her love is reflected in my work as an actor, artist and philanthropist.]C2-Arg2(EntRel)
+Without her example, I wouldn't be [who I am today]C3-Arg1 [and]C3 Expansion [[while]C4-Comparison [I miss her endlessly during the holidays]C4-Arg2, I know that if I live my life the way she did, I will make the same impact on my family]C3-Arg2]C2-Arg1 and that is truly a gift.

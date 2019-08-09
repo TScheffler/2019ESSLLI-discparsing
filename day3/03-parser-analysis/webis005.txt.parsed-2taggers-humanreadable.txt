@@ -1,0 +1,36 @@
+Actor, artist, philanthropist: My mother's selfless love with me at the holidays and always.
+
+[The holidays are my favorite time of year.]C7-Arg1 
+[[As]C7 [my home fills with the joy and laughter of my six children and four grandchildren, I'm reminded of how lucky I am to have the most wonderful job in the world - being a mother and grandmother.]C7-Arg2]I1-Arg1 []I1
+[[[It's the single most important thing I've done with my life,]C1-Arg1 [and]C-1 [I know just how important the job is because I am constantly reminded of what an influence my own mother was in my life.]C1-Arg2 ]I1-Arg2 ]EntRel1-Arg1 []EntRel1
+[[My mother Mieke survived three and a half horrific years in a Japanese concentration camp during World War II.]EntRel1-Arg2 ]I2-Arg1 []I2
+[During that time, she focused all of her energy on caring for fellow prisoners who were far worse off than she was.]I2-Arg2
+
+[[]C2-Arg1 [When]C2 [I think of my mother, I think of the selfless love she had not only for my family, but for complete strangers as well.]C2-Arg2 ]EntRel2-Arg1 []EntRel2
+[[[She's with me every day]C3-Arg1 [as]C3 [I challenge myself to live my life in the same way.]C3-Arg2 ]EntRel2-Arg2 ]I3-Arg1 []I3
+[[I am so blessed to have a wonderful family and career that I love,]C4-Arg1 [and]C4 [I see my mother in all of those things.]C4-Arg2 ]I3-Arg2
+I see her every day in the faces of my children and grandchildren.
+[[I am reminded of her each time a single white feather floats through the air - whether on good days or bad days -]C5-Arg1 [and]C5 [I have to smile knowing that she is always with me.]C5-Arg2 ]EntRel3-Arg1 []EntRel3
+[[Her love is reflected in my work as an actor, artist and philanthropist.]EntRel3-Arg2 ]EntRel4-Arg1 []EntRel4
+[[Without her example, I wouldn't be who I am today and while I miss her endlessly during the holidays, I know that if I live my life the way she did, I will make the same impact on my family]C6-Arg1 [and]C6 [that is truly a gift.]C6-Arg2 ]EntRel4-Arg2
+
+
+Intra-sentence:
+
+C1: expansion.conjunction
+C2: temporal.synchrony
+C3: temporal.synchrony
+C4: expansion.conjunction
+C5: expansion.conjunction
+C6: expansion.conjunction
+
+Adjacent-sentence:
+
+C7: contingency.cause
+I1: expansion.restatement
+EntRel1
+I2: comparison.contrast
+EntRel2
+I3: expansion.restatement
+EntRel3
+EntRel4
