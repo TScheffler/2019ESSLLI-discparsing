@@ -5,6 +5,8 @@
 * pipeline model
 * OPT parser
 
+---
+
 ## Existing discourse parsers (for English)
 
 This is an incomplete list of discourse parsers for English. I've included only parsers which are available online and can be installed and run with reasonable effort.
