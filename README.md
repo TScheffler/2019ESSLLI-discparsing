@@ -3,7 +3,7 @@ This is a repository for the class "Shallow Discourse Parsing" at ESSLLI 2019, R
 
 ## Day 1 - The Linguistics of Discourse Structure
 
-[Presentation slides](day1/)
+[Presentation slides](day1/01-linguistics_of_discourse.pdf)
 
 ## Day 2 - Exploring Discourse Annotated Corpora
 
