@@ -1,4 +1,4 @@
-# Exploring Ressources Related to Shallow Discourse Structure
+# Day 2 - Exploring Ressources Related to Shallow Discourse Structure
 
 Please download the dataset: https://bit.ly/2TjfT5K (Password will be announced in class)
 
