@@ -13,8 +13,9 @@ This is a repository for the class "Shallow Discourse Parsing" at ESSLLI 2019, R
 
 [Presentation slides and documentation on existing discourse parsers](day3/)
 
-## Day 4 - Specific Issues with Shallow Discourse Parsing
+## Day 4 - Shallow vs. Deep Discourse Structure
 
-## Day 5 - Shallow vs. Deep Discourse Structure
+[Presentation slides](day4/)
 
-[Presentation slides](day5/)
+## Day 5 - Specific Issues with Shallow Discourse Parsing
+
