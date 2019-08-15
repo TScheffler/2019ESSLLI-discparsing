@@ -1,0 +1,4 @@
+[The thought of television exclusively made up of private channels scares me.]C0-Arg1 [Implicit EntRel] [ [Admittedly trash and turmoil are exactly what the majority of people want to see. ]C0-Arg2 ]C1-Arg1
+[But]C1 [ to therefore offer TV according to audience rates only would be dangerous.]
+[ Only in public TV programmes can viewers get information that is not profit-oriented.]C2-Arg1
+[And]C2 [since it is the duty of society to collectively finance certain areas that cannot hold their own in a market economy, everyone should chip in.]C2-Arg2
