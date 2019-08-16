@@ -17,5 +17,6 @@ This is a repository for the class "Shallow Discourse Parsing" at ESSLLI 2019, R
 
 [Presentation slides](day4/)
 
-## Day 5 - Specific Issues with Shallow Discourse Parsing
+## Day 5 - Connectives Crosslinguistically
 
+[Presentation slides](day5/)
