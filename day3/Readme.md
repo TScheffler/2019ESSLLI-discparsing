@@ -38,6 +38,12 @@ Parsers which, after downloading, are up and running **and** can parse regular t
 Output is in *.pipe
 
 
+### Discopy -- Lin Parser Reimplementation
+
+* https://github.com/rknaebel/discopy
+* very nice modular Python reimplemenation of the Lin parser
+* runs on CONLL style input
+
 ### Wang/Lan
 
 * needs CONLL style input
@@ -61,3 +67,14 @@ Output is in *.pipe
 * https://github.com/acoli-repo/shallow-discourse-parser
 * https://www.aclweb.org/anthology/K16-2005
 * ported to Python3 and Keras: https://github.com/AtreyaSh/shallow-discourse-parser
+
+### UNITN Shallow Discourse Parser
+
+* https://github.com/esrel/DP
+* CONLL 2016 Shared Task Uni Trento submission
+* runs on CONLL input
+* __This repository contains a script [txt2json.sh](https://github.com/esrel/DP/blob/master/txt2json.sh) which, given the installation of the Berkeley and Stanford syntactic parsers, can convert plain text input into the CONLL JSON format__
+
+### ETS: RST (Deep) Discourse Parser
+
+* https://github.com/EducationalTestingService/discourse-parsing
